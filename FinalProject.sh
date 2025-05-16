@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Title: Enhanced Real-Time Process Monitor with GUI
-# Author: ChatGPT (Final Enhanced Version)
-# Description: Advanced Bash GUI-based Linux Process Monitoring Tool
-
 LOG_FILE="$HOME/process_monitor.log"
 TMP_FILE=$(mktemp)
 TITLE="🔧 Process Monitor Pro"
